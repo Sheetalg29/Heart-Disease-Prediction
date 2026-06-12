@@ -57,3 +57,6 @@ Heart-Disease-Prediction/
 
 ---
 
+## Live Demo
+
+🔗 Streamlit App: https://heart-disease-prediction-asrqbnnhje2onxa8heqbot.streamlit.app
